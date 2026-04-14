@@ -1,0 +1,7 @@
+Hello, Welcome to Python Programming!
+File saved safely with pathlib.
+Python makes file handling easy!
+This line was added!
+Adding more content via list.
+File handling in Python is powerful!
+User added: TUP is a Engineering School

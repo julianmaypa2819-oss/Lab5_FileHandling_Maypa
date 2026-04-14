@@ -1,0 +1,2 @@
+Welcome Davie Julian Maypa (ID: 2025-0357) to File Handling in Python!
+1: LINE 4: THIS LINE IS BEING ADDED TO THE CORRECT FILE!
